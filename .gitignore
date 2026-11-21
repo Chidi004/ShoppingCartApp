@@ -1,0 +1,25 @@
+# Compiled Java files
+*.class
+
+# IntelliJ IDEA project files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Build output
+out/
+target/
+bin/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# VS Code
+.vscode/
+
+# OS junk
+.DS_Store
+Thumbs.db
